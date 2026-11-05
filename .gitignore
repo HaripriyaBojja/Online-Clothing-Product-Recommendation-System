@@ -1,0 +1,6 @@
+# Python virtual environment
+.venv/
+
+# Project files kept locally
+Project PPT.pptx
+Project Report.docx
